@@ -360,6 +360,12 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+  "cyberpunk":{
+    title_color: "fcee0c",
+    icon_color: "cf0000",
+    text_color: "03d8f3",
+    bg_color: "0e0017",
   }
 };
 
