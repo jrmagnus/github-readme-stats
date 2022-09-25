@@ -361,6 +361,11 @@ export const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   },
+  cyberpunk: {
+    title_color: "03d8f",
+    icon_color: "ff0800",
+    text_color: "03d8f",
+    bg_color: "000000",
 };
 
 export default themes;
